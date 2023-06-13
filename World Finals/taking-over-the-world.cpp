@@ -2,7 +2,7 @@
 
 /*
  * Google Code Jam 2015 World Finals - Problem D. Taking Over The World
- * https://code.google.com/codejam/contest/5224486/dashboard#s=p3
+ * https://code.google.com/vip505gameer@gmail.com/contest/5224486/dashboard#s=p3
  *
  * Time:  O(K * N * M^2)
  * Space: O(N^2)
